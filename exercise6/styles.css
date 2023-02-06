@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+p.content{
+    margin-bottom: 12px;
+    }
+body{
+  background-color: green;
+  font: "Times New Roman";
+}
